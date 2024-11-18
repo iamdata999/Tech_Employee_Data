@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # Project Title: Employee Retention Strategy Analysis
-=======
-# Project Title: Employee Retention Strategy Analysis
-coming soon
->>>>>>> ef2ba02f2d87de3e93a5c41d9c8b2a9e36d62cb3
+
 
 ## Introduction
 
